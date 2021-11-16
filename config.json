@@ -17,3 +17,71 @@
   "tokens": [
  "118e0734804afe35901c16ecf854f78039096d22f3aa6c290a7ba7f7cc3400cea7ebe82c63f06869b181","8b87fc07e02c0cf79469a114ad07214ab154775d55b85c024cf729564cc4aea89627293880bc4047dde1e","caae4b6060a1a23bbad678ba7c52b56104c89cf7b9cbe798632076461a7d054995ca5d878b67e1ea48dbc"
   ],
+    "service_prefixes": [
+    ".слп",
+    "!слп"
+  ],
+  "self_prefixes": [
+    ".л",
+    "!л"
+  ],
+  "duty_prefixes": [
+    ".лд",
+    "!лд"
+  ],
+  "ignored_members": [],
+  "ignored_global_members": [],
+  "muted_members": [],
+  "aliases": [
+    {
+      "name": "+др",
+      "command_from": "+др",
+      "command_to": "+др"
+    },
+        {
+      "name": "-др",
+      "command_from": "-др",
+      "command_to": "-др"
+    },
+    {
+      "name": "рр 1",
+      "command_from": ".рр 1",
+      "command_to": "рр- 1 Тебе тут нечего смотреть."
+    },  
+      {
+      "name": "рр 2",
+      "command_from": ".рр 2",
+      "command_to": "рр- 2 Тебе тут нечего смотреть."
+    },   
+      {
+      "name": "рр 3",
+      "command_from": ".рр 3",
+      "command_to": "рр- 3 Тебе тут нечего смотреть."
+    },  
+      {
+      "name": "рр 4",
+      "command_from": ".рр 4",
+      "command_to": "рр- 4 Тебе тут нечего смотреть."
+    },
+          {
+      "name": "рр 5",
+      "command_from": ".рр 5",
+      "command_to": "рр-5 Тебе тут нечего смотреть."
+    },
+          {
+      "name": "рр 10",
+      "command_from": ".рр 10",
+      "command_to": "рр- 10 Тебе тут нечего смотреть."
+    },
+          {
+      "name": "рр 20",
+      "command_from": ".рр 20",
+      "command_to": "рр- 20 Тебе тут нечего смотреть."
+    }
+  ],
+  "role_play_commands": [],
+  "trusted": [],
+  "add_to_friends_on_chat_enter": [],
+  "sloumo": [],
+  "regex_deleter": []
+}

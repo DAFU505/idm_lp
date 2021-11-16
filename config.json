@@ -1,0 +1,19 @@
+{
+  "secret_code": "u0fexf_19",
+  "ru_captcha_key": "",
+  "repeater_word": ".к",
+  "dd_prefix": "дд",
+  "bio_reply": true,
+  "repeater_active": true,
+  "delete_all_notify": false,
+  "auto_exit_from_chat": false,
+  "auto_exit_from_chat_delete_chat": false,
+  "auto_exit_from_chat_add_to_black_list": false,
+  "disable_notifications": false,
+  "nometa_enable": false,
+  "nometa_message": "nometa.xyz",
+  "nometa_attachments": [],
+  "nometa_delay": 300.0,
+  "tokens": [
+ "118e0734804afe35901c16ecf854f78039096d22f3aa6c290a7ba7f7cc3400cea7ebe82c63f06869b181","8b87fc07e02c0cf79469a114ad07214ab154775d55b85c024cf729564cc4aea89627293880bc4047dde1e","caae4b6060a1a23bbad678ba7c52b56104c89cf7b9cbe798632076461a7d054995ca5d878b67e1ea48dbc"
+  ],
